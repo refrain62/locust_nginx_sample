@@ -9,7 +9,7 @@ https://zenn.dev/not75743/articles/6e34e04dcb5499
 docker compose up -d
 ```
 
-http://loclahost で 検証される　Nginxに接続
+http://localhost で 検証される　Nginxに接続
 
 
 http://localhost:8089 で 検証する Locustに接続
